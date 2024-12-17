@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Users\DELL\Desktop\apache-tomcat-9.0.98\webapps">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="E:/web/Fawry/Week3/ServletTask/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>
